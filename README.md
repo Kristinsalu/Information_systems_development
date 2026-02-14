@@ -1,3 +1,3 @@
 
-- Made in TalTech's course ITB2203
+- Created as part of TalTech coursework
 - Main language: c#
